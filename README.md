@@ -1,5 +1,5 @@
 ## Hello, welcome to my homepage!
-I am a student who is passionate about AI. Currently, I am an undergraduate majoring in Artificial Intelligence at Tongji University, and I am simultaneously minoring in Finance at Fudan University. I enjoy acquiring new knowledge and taking on challenging tasks.
+I am a student who is passionate about AI and coffee. Currently, I am an undergraduate majoring in Artificial Intelligence at Tongji University, and I am simultaneously minoring in Finance at Fudan University. I enjoy acquiring new knowledge and taking on challenging tasks.
 <!--
 **tjcty20051110/tjcty20051110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
